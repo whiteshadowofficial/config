@@ -1,11 +1,11 @@
 {
-    "name": "Amalser ",
-    "description": "Amalser is the Modified Version of WhatsAsena, Made By @Amal-ser with Baileys.",
+    "name": "stefanie",
+    "description": "Made By @Kaweeshachamodk with Baileys.",
     "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Amal-ser/Amalser",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/Kaweeshachamodk/testing",
+    "website":   "https://github.com/Kaweeshachamodk/testing",
+    "success_url": "https://github.com/Kaweeshachamodk/testing",
     "stack": "container",
     "env": {
         "AMALSER_CODE": {
