@@ -31,7 +31,7 @@ var i = Math.floor(1*Math.random())
       
       const buttonMessage = {
           contentText: ' ```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'Amalser ©',
+          footerText: 'Stefanie ©',
           buttons: buttons,
           headerType: 1
       }
