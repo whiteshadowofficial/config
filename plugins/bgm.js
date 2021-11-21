@@ -1,6 +1,3 @@
-/* Copyright (C) 2021 afnanplk
-*/
-
 const Asena = require('../events');
 const config = require('../config');
 const Heroku = require('heroku-client');
