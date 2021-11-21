@@ -1,11 +1,3 @@
-/* Copyright (C) 2020 Amalser.
-
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-
-Amalser - Amal,farhan
-*/
-
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const exec = require('child_process').exec;
