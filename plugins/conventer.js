@@ -1,8 +1,3 @@
-/*Codded by @phaticusthiccy
-Telegram: https://t.me/phaticusthiccy
-Instagram: https://instagram.com/kyrie.baran
-*/
-
 const Asena = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 const fs = require('fs');
